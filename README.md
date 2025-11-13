@@ -2,7 +2,9 @@
 <html>
   <head>
     <body>
-  
+<tabel>
+
+</tabel>  
         <tr>
           <th>hyuga clan</th>
           <th>uaumakiclan</th>
