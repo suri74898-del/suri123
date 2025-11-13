@@ -2,7 +2,7 @@
 <html>
   <head>
     <body>
-      <table>
+  
         <tr>
           <th>hyuga clan</th>
           <th>uaumakiclan</th>
@@ -23,4 +23,18 @@
           <td>naguto</td>
           <td>itachi</td>
         </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
       </table>
