@@ -10,17 +10,17 @@
           </tr>
         <tr>
         <td>negi</td>
-        <td>hinata</td>
-        <td>hizashi</td>
+        <td>naruto</td>
+        <td>sasuke</td>
         </tr>
         <tr>
-          <td>naruto</td>
-          <td>naguto</td>
+          <td>hinata</td>
           <td>kushina</td>
+          <td>madara</td>
         </tr>
         <tr>
-          <td>sasuke</td>
+          <td>hizashi</td>
+          <td>naguto</td>
           <td>itachi</td>
-          <td>madara</td>
         </tr>
       </table>
